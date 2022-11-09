@@ -9,3 +9,5 @@ To learn word meaning and train a custom set of embeddings, a set of text files 
 
 ## 2048
 A personal implementation of a famous [App Store game](https://apps.apple.com/us/app/2048/id840919914).
+
+## More of my projects (like Gomoku and Chess engines) will be added soon!
